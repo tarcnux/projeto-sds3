@@ -23,7 +23,7 @@ Backend em Java com Spring Boot, Frontend em ReactJS com Typescript e Banco de D
 ## API Rest em Java
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b5df25a02da2a90cf2b1)
 
-Backend Heroku: https://sds3-tarcnux.herokuapp.com/
+Backend Heroku: https://sds3-tarcnux.herokuapp.com/ [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://sds3-tarcnux.herokuapp.com/sellers)
 
 **Listar Vendas Paginada**
 ----
@@ -223,6 +223,6 @@ Backend Heroku: https://sds3-tarcnux.herokuapp.com/
     ]
     ```      
     
-## Website
+## Website [![Netlify Status](https://api.netlify.com/api/v1/badges/8f014662-03e5-4b11-b3f9-c01125d8d260/deploy-status)](https://app.netlify.com/sites/tarcnux-sds3/deploys)
 Ainda com dados estáticos, a integração só será feita na sexta-feira 08/05
 Frontend no Netlify: https://tarcnux-sds3.netlify.app/
